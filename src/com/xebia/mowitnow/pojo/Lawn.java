@@ -16,8 +16,8 @@ public class Lawn {
 
 	/**
 	 * Constructor
-	 * @param lower position of the lawn
-	 * @param upper position of the lawn
+	 * @param _lower position of the lawn
+	 * @param _upper position of the lawn
 	 */
 	public Lawn( Position _lower, Position _upper) {
 		lower = _lower;
@@ -26,7 +26,7 @@ public class Lawn {
 	
 	/**
 	 * Method allowing you to know whether you are in the borders of the lawn
-	 * @param future position of the mower
+	 * @param position of the mower
 	 * @return true if is inside, false otherwise
 	 */
 	public boolean isInside( Position position){

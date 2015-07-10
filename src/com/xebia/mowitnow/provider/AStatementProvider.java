@@ -35,7 +35,7 @@ public abstract class AStatementProvider {
 	
 	/**
 	 * Method to parse the actions string into IMowAction
-	 * @param actions in string to be transform into IMowAction
+	 * @param strActions in string to be transform into IMowAction
 	 * @return the list of IMowAction
 	 */
 	public List<IMowAction> getParsedMowAction( String strActions ) {

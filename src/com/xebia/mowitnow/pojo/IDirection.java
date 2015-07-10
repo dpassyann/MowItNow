@@ -17,12 +17,12 @@ public interface IDirection {
 	Position forward( Position position);
 	/**
 	 * Method to move to left
-	 * @return
+	 * @return the new position after the left action
 	 */
 	IDirection left();
 	/**
 	 * Method to move to right
-	 * @return
+	 * @return the new position after the right action
 	 */
 	IDirection right();
 }
