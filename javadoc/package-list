@@ -1,0 +1,10 @@
+com.xebia.mowitnow
+com.xebia.mowitnow.controller
+com.xebia.mowitnow.controller.action
+com.xebia.mowitnow.controller.action.impl
+com.xebia.mowitnow.exception
+com.xebia.mowitnow.pojo
+com.xebia.mowitnow.pojo.impl
+com.xebia.mowitnow.provider
+com.xebia.mowitnow.provider.impl
+com.xebia.mowitnow.view
